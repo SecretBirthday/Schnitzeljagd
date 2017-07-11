@@ -6,6 +6,10 @@
 
 3. Programmieraufgabe: Er muss eine Methode schreiben, die irgendetwas tut ... noch genauer überlegen (Zusammenhang zu Präsenzübung?)
 
+4. Mathematische Aussagen vervollständigen: Er bekommt 7 (!) mathematische Aussagen (z.B. f ist glm. stetig g.d.w. ...), in denen jeweils ein Zeichen fehlt, das er einfügen muss.
+   Jeder Aussage wird ein Teil der Lösung (Koordinaten, URL, ...) zugeordnet. Um die Lösung zu bekommen, muss er die Aussagen in die richtige Reihenfolge bringen.
+   Die richtige Reihenfolge erkennt er daran, dass sich aus den von ihm eingefügten Zeichen das "Wort" Oegge ergibt, bloß in optimierter Schreibweise (leere Menge, Existenzquantor, doppel "ck" und so).
+
 X. Ausgraben des Pakets
 
 Sonstiges:
