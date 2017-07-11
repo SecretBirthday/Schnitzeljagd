@@ -1,4 +1,4 @@
-Schnitzeljagd: 
+﻿Schnitzeljagd: 
 1. a) Er bekommt einen Zettel mit Matthias Braun sagt am 03.02.2018 (sein Geburtstag an dem er 20 ist): >>Eine mit Caesar-Chiffre verschlüsselte URL (Verschiebung ist sein Alter), die eine Seite mit zwei Matrizen führt.<<
    b) Eine dieser Matrizen muss transponiert werden, anschließend müssen beide Matrizen multipliziert werden (in einem bestimmten Körper). Die Positionen der "0" (i,j) entsprechen konkateniert den Koordinaten, die zur nächsten Aufgabe führen.  
 
